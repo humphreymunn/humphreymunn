@@ -9,9 +9,7 @@ Projects not on Github:
 * [Adrift](https://www.youtube.com/watch?v=6JqdQI5W8Uw "Adrift"): Survival game with procedural generation and crafting/building mechanics. 
 
 -------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humphreymunn)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=humphreymunn&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=humphreymunn&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humphreymunn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **humphreymunn/humphreymunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
