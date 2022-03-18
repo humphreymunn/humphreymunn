@@ -4,7 +4,7 @@ Hi, I'm a computer science student at UQ interested in machine learning and biol
 
 Projects not on Github:
 
-* [Music Theory: Key Signatures](https://play.google.com/store/apps/details?id=com.companyname.Music_Theory_Key_Signatures "Music Theory: Key Signatures"): An Android app for learning key signatures. Rated 5 stars (27 reviews) with 4000+ installs.
+* [Music Theory: Key Signatures](https://play.google.com/store/apps/details?id=com.companyname.Music_Theory_Key_Signatures "Music Theory: Key Signatures"): An Android app for learning key signatures. Rated 5 stars (29 reviews) with 4000+ installs.
 * [Rally](https://www.kongregate.com/games/hjstudios/rally "Rally"): A fusion of the classic pong and breakout games. 
 * [Adrift](https://www.youtube.com/watch?v=6JqdQI5W8Uw "Adrift"): Survival game with procedural generation and crafting/building mechanics. 
 
